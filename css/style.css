@@ -176,7 +176,7 @@ body{
   transition: transform .2s;
  }
 
- .project-1-bg:hover {
+ /* .project-1-bg:hover {
   width: 100%;
   background: url("../assets/frame_tennis.png");
   background-repeat: no-repeat;
@@ -184,7 +184,7 @@ body{
   margin: auto;
   background-position: center center;
   
-}
+} */
 
 .project-2-bg{
   width: 100%;
@@ -197,14 +197,14 @@ body{
   transition: transform .2s; /* Animation */
  }
 
- .project-2-bg:hover {
+ /* .project-2-bg:hover {
   width: 100%;
   background: url("../assets/expenses2f.png");
   background-repeat: no-repeat;
   background-size: contain;
   margin: auto;
   background-position: center center;
-}
+} */
 
 .project-3-bg{
   width: 100%;
@@ -217,12 +217,12 @@ body{
   
  }
 
- .project-3-bg:hover {
+ /* .project-3-bg:hover {
   -webkit-animation: swing 1s ease;
   animation: swing 1s ease;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
-}
+} */
 
 @-webkit-keyframes swing
 {
