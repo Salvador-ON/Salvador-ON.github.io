@@ -305,7 +305,7 @@ body{
   width: 35vw;
   min-height: 35vw;
   border: 5px solid white;
-  background: url("../assets/profile-picture.jpg") -20px 0px ;
+  background: url("../assets/profile-picture.jpg") -30px 0px ;
   background-repeat: no-repeat;
   background-size: cover
   }
