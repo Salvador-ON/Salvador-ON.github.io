@@ -206,7 +206,7 @@ body{
   background-position: center center;
 }
 
-.project-3-bg{
+/* .project-3-bg{
   width: 100%;
   min-height: 300px;
   background: url("../assets/scrapper.gif");
@@ -214,7 +214,6 @@ body{
   background-size: contain;
   background-position: center center;
   margin: auto;
-  
  }
 
  .project-3-bg:hover {
@@ -222,7 +221,7 @@ body{
   animation: swing 1s ease;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
-}
+} */
 
 @-webkit-keyframes swing
 {
