@@ -1,6 +1,11 @@
 body{
   min-width: 365px;
 }
+
+.sections{
+  margin-top: 60px;
+}
+
 .grey-background{
   background-color: rgb(241, 240, 245); 
   min-height: 100vh;
@@ -290,6 +295,10 @@ body{
 @media only screen and (min-width: 992px) {
   .rond{
     border-radius: 50em!important;  
+  }
+
+  .sections{
+    margin-top: 0px;
   }
 
   .pic-50{
