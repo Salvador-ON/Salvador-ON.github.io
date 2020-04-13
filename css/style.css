@@ -288,8 +288,9 @@ body{
 
 @media only screen and (max-width: 991px) and (min-width: 600px )   {
   .pic-50{
-    width: 35vw;
-    min-height: 35vw;
+    margin-top: 10vw;
+    width: 45vw;
+    min-height: 45vw;
     border: 5px solid white;
     background: url("../assets/profile-picture.jpg") -20px 0px ;
     background-repeat: no-repeat;
