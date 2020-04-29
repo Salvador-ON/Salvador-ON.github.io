@@ -2,6 +2,10 @@ body{
   min-width: 365px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .sections{
   margin-top: 60px;
 }
