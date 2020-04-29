@@ -219,6 +219,46 @@ body{
   animation-iteration-count: 1;
 }
 
+.project-4-bg{
+  width: 100%;
+  min-height: 300px;
+  background: url("../assets/tic-tac-toe.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  transition: transform .2s;
+ }
+
+ .project-4-bg:hover {
+  width: 100%;
+  background: url("../assets/tic-tac-toe-frame.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: auto;
+  background-position: center center;
+  
+}
+
+.project-5-bg{
+  width: 100%;
+  min-height: 300px;
+  background: url("../assets/donuts-page.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  transition: transform .2s;
+ }
+
+ .project-5-bg:hover {
+  width: 100%;
+  background: url("../assets/donuts-frame.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: auto;
+  background-position: center center;
+  
+}
+
 @-webkit-keyframes swing
 {
     15%
