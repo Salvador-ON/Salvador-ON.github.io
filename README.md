@@ -1,8 +1,6 @@
 ## Portfolio
 
-## Live Demo
-
-- [Demo](https://salvador-on.github.io/Portfolio/)
+- [Portfolio](https://salvador-on.github.io/Portfolio/)
 
 ## Author
 
