@@ -1,28 +1,23 @@
-## I am Salvador Olvera
-Full-Stack Web Developer with a passion for coding and creating web applications with intuitive user experiences, UI effects, and responsive design.
+# About The Project
 
-## Skills
-- HTML5.
+This portfolio was built using HTML5, CSS3, Javascript, and Bootstraps 4, This Website was built taking care of the user experience and user interface design and responsive design.
+
+
+## Built With
+
+- HTML.
 - CSS.
-- Bootstrap.
-- Ruby.
-- Ruby on Rails.
-- SQL.
 - Javascript.
-- React.
-- Redux.
+- Bootstrap 4.
 
-## About Me
+## Resolution
+### This Website has 2 breakpoint resolutions. One for mobile and the other for desktop
+- Mobile: up to 768px.
+- Desktop: from 768px.
 
-I'm a Mechatronic Engineer with 5 years of experience in the tech field.
+![screenshot](assets/portfolio.PNG)
 
-In 2020 I decided to follow my dreams as a Developer. I graduated from Microverse Full-Stack Software Development Program, where I learned HTML, CSS, Ruby, Rails, JavaScript, React, and Redux.
-
-During this program I honed my remote working skills, I have more than 1000 hours of remote work with colleagues from other parts of the world.
-
-One of my favorite parts of coding is the ability to use code for helping and making a difference in people’s lives. Making tasks easier and quicker to do.
-
-## Portfolio
+## Live Demo
 
 - [Portfolio](https://salvador-on.github.io)
 
