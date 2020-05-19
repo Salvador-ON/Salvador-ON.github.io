@@ -1,13 +1,13 @@
 # About The Project
 
-This portfolio was built using HTML5, CSS3, Javascript, and Bootstraps 4, This Website was built taking care of the user experience and user interface design and responsive design.
+This portfolio was built using HTML5, CSS3, JavaScript, and Bootstraps 4, This Website was built taking care of the user experience and user interface design and responsive design.
 
 
 ## Built With
 
 - HTML.
 - CSS.
-- Javascript.
+- JavaScript.
 - Bootstrap 4.
 
 ## Resolution
