@@ -226,7 +226,7 @@ html {
 .project-4-bg{
   width: 100%;
   min-height: 300px;
-  background: url("../assets/tic-tac-toe.png");
+  background: url("../assets/devices-coronagame.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -235,7 +235,7 @@ html {
 
  .project-4-bg:hover {
   width: 100%;
-  background: url("../assets/tic-tac-toe-frame.png");
+  background: url("../assets/coronagame-phone.png");
   background-repeat: no-repeat;
   background-size: contain;
   margin: auto;
