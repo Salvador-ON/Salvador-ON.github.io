@@ -321,6 +321,25 @@ html {
   margin: auto;
   background-position: center center;
  }
+
+ .project-9-bg {
+  width: 100%;
+  min-height: 300px;
+  background: url("../assets/petscareDevices.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  transition: transform .2s;
+ }
+
+ .project-9-bg:hover {
+  width: 100%;
+  background: url("../assets/petscare-screens.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: auto;
+  background-position: center center;
+ }
   
 
 @-webkit-keyframes swing
